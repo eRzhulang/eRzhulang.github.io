@@ -234,7 +234,7 @@
 血怒 （攻击造成自身当前生命百分比伤害，适合水队）&lt;/p&gt;
 &lt;h2 id=&#34;状态队精灵介绍&#34;&gt;状态队精灵介绍&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;火队&lt;/strong&gt;&lt;br&gt;
-*&lt;em&gt;【燃烧】使目标每回合损失血量，伤害值为攻击者的〔攻击+特攻)&lt;em&gt;0.3，持续5回合。处于燃烧状态的精灵造成的伤害减少8%，最终生命回复降低15%&lt;/em&gt;&lt;/em&gt;
+&lt;strong&gt;【燃烧】使目标每回合损失血量，伤害值为攻击者的〔攻击+特攻)×0.3，持续5回合。处于燃烧状态的精灵造成的伤害减少8%，最终生命回复降低15%&lt;/strong&gt;&lt;br&gt;
 阵容&lt;br&gt;
 状态宠：&lt;br&gt;
 &lt;img src=&#34;https://zhulang.github.io/post/%E6%96%B0%E5%8C%BA%E6%94%BB%E7%95%A5%E9%98%B5%E5%AE%B9%E7%AF%87%E7%8A%B6%E6%80%81%E5%AE%A0/%E5%9B%BE%E7%89%874.jpg&#34;
@@ -611,7 +611,7 @@
 &lt;p&gt;电队的主力主要是皮神和捷克雷姆，SR过渡宠物雷丘强度不错，电队在推图和推塔强势。但是由于现在新区SR烈咬陆鲨的原因，电队难以存活。&lt;br&gt;
 不建议玩电队。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;毒队&lt;/strong&gt; &lt;br&gt;
-&lt;strong&gt;【中毒】使目标每回合损失血量，伤害值为攻击者的（攻击+特攻）“O.4。中志状态的精灵生命回复降低10%，持续5回合&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;【中毒】使目标每回合损失血量，伤害值为攻击者的（攻击+特攻）×O.4。中志状态的精灵生命回复降低10%，持续5回合&lt;/strong&gt;&lt;br&gt;
 阵容&lt;br&gt;
 状态宠：&lt;br&gt;
 &lt;img src=&#34;https://zhulang.github.io/post/%E6%96%B0%E5%8C%BA%E6%94%BB%E7%95%A5%E9%98%B5%E5%AE%B9%E7%AF%87%E7%8A%B6%E6%80%81%E5%AE%A0/%E5%9B%BE%E7%89%8728.jpg&#34;
