@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on eR烛狼攻略</title>
-        <link>https://eRzhulang.github.io/page/</link>
+        <link>https://zhulang.github.io/page/</link>
         <description>Recent content in Pages on eR烛狼攻略</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://eRzhulang.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://zhulang.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>归档</title>
-        <link>https://eRzhulang.github.io/page/archives/</link>
+        <link>https://zhulang.github.io/page/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://eRzhulang.github.io/page/archives/</guid>
+        <guid>https://zhulang.github.io/page/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://eRzhulang.github.io/page/search/</link>
+        <link>https://zhulang.github.io/page/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://eRzhulang.github.io/page/search/</guid>
+        <guid>https://zhulang.github.io/page/search/</guid>
         <description></description>
         </item>
         
