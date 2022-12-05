@@ -1,7 +1,7 @@
 ---
 title: 群内骗子的信息
-description: 有骗子的QQ和微信请带图联系我
-date: 2022-11-22
+description: 有骗子的QQ和微信请备注来意，带图联系我（QQ2565943542）
+date: 2022-11-24
 image: 
 categories:
     - 骗子信息

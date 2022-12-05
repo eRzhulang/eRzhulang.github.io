@@ -4,8 +4,8 @@ description:
 date: 2022-11-06
 image: 
 categories:
-    - Test
-    - 测试
+    - 新手攻略
+    - 
 ---
 
 ## 新区攻略活动篇
